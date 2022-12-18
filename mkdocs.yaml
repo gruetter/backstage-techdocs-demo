@@ -5,3 +5,9 @@ nav:
 
 plugins:
   - techdocs-core
+
+theme:
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
