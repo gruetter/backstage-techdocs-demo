@@ -7,6 +7,8 @@ plugins:
   - techdocs-core
 
 theme:
+  ame: mkdocs
+  nav_style: dark
   features:
     - navigation.tabs
 
